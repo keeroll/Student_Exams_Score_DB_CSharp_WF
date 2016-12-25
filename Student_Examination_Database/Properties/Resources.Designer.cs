@@ -123,6 +123,16 @@ namespace Student_Examination_Database.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1482715868_Ok {
+            get {
+                object obj = ResourceManager.GetObject("1482715868_Ok", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap gTPLZQSXxT0 {
             get {
                 object obj = ResourceManager.GetObject("gTPLZQSXxT0", resourceCulture);

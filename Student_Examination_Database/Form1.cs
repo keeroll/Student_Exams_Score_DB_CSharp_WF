@@ -18,7 +18,8 @@ namespace Student_Examination_Database
         private void Form1_Load(object sender, EventArgs e)
         {
             this.studentsTableTableAdapter1.Fill(this.examsStudentsDataSet1.studentsTable);
-            Display_Data();  
+            Display_Data();
+            
         }
 
         private void Display_Data()
@@ -69,11 +70,13 @@ namespace Student_Examination_Database
                 connection.Close();
                 Clear_All_TextBoxes();
                 Display_Data();
-                MessageBox.Show("Saved");
+                Saved saved_msg = new Saved();
+                saved_msg.Show();
             }
             else
             {
-                MessageBox.Show("You have entered wrong data or missed a field");
+                Error error_msg = new Error();
+                error_msg.Show();
             }
         }
 
@@ -92,7 +95,8 @@ namespace Student_Examination_Database
             connection.Close();
             Clear_All_TextBoxes();
             Display_Data();
-            MessageBox.Show("Deleted");
+            Deleted deleted_msg = new Deleted();
+            deleted_msg.Show();
         }
 
         private void delete_btn_Click(object sender, EventArgs e)
