@@ -4,4 +4,4 @@
 
 ##So the project contains:
 ###Save, Delete, View, Search data functions
-###Simple UI with material design
+###Simple modern UI
