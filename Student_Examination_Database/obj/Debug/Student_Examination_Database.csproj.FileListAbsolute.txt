@@ -1,0 +1,9 @@
+E:\Projects\C# projects\Student_Examination_Database\Student_Examination_Database\bin\Debug\Student_Examination_Database.exe.config
+E:\Projects\C# projects\Student_Examination_Database\Student_Examination_Database\bin\Debug\Student_Examination_Database.exe
+E:\Projects\C# projects\Student_Examination_Database\Student_Examination_Database\bin\Debug\Student_Examination_Database.pdb
+E:\Projects\C# projects\Student_Examination_Database\Student_Examination_Database\obj\Debug\Student_Examination_Database.csprojResolveAssemblyReference.cache
+E:\Projects\C# projects\Student_Examination_Database\Student_Examination_Database\obj\Debug\Student_Examination_Database.Form1.resources
+E:\Projects\C# projects\Student_Examination_Database\Student_Examination_Database\obj\Debug\Student_Examination_Database.Properties.Resources.resources
+E:\Projects\C# projects\Student_Examination_Database\Student_Examination_Database\obj\Debug\Student_Examination_Database.csproj.GenerateResource.Cache
+E:\Projects\C# projects\Student_Examination_Database\Student_Examination_Database\obj\Debug\Student_Examination_Database.exe
+E:\Projects\C# projects\Student_Examination_Database\Student_Examination_Database\obj\Debug\Student_Examination_Database.pdb
