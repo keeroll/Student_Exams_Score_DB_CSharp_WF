@@ -1,7 +1,5 @@
 # Student_Exams_Score_DB_CSharp_WF
-This project were made for university course. 
-Here I used C# language and MSSQLEXPRESS for my project.
+University course project.
+Created a crud app with WinForms and MSSQLExpress.
 
-### So the project contains:
-- Save, Delete, View and Search data functions
-- Simple modern UI on Win Forms
+[![Student management app](https://img.youtube.com/vi/RPXotjyF7gg/0.jpg)](https://www.youtube.com/watch?v=RPXotjyF7gg)
